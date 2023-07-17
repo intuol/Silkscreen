@@ -157,6 +157,9 @@ class Recorder
 		// Prep the stage for rendering
 		window.stage.align = StageAlign.TOP_LEFT;
 		window.stage.scaleMode = StageScaleMode.NO_SCALE;
+                // Fix built-in camera
+		_mask.x = 0;
+		_mask.y = 0;
 		
 		this.currentFrame.lock();
 		
