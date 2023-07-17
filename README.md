@@ -1,6 +1,8 @@
 ## Silkscreen
 #### If you just want to download it, jump to the [Releases](https://github.com/AaronShea/Silkscreen/releases).
 
+#### This has been updated by intuol to fix any bugs caused in Adobe Animate (+ New rendering options...soon)
+
 Flash is a tool (kinda).
 
 This is a tool for animations exported from Flash. It turns them into transparent (no stage background) Quicktime files so they can be composed in something like After Effects in post-production.
